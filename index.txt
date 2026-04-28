@@ -1,3 +1,1 @@
-Hello Git
-Druga linia
-Zmiana na branchu test
+Zmiana w branchu konflikt
